@@ -1,0 +1,29 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dargains/parcel.git"
+  },
+  "keywords": [
+    "parcel",
+    "boilerplate"
+  ],
+  "author": "Andre Dargains",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dargains/parcel/issues"
+  },
+  "homepage": "https://github.com/dargains/parcel#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.32.7"
+  }
+}
